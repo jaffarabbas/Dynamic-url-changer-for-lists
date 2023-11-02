@@ -22,7 +22,7 @@ const menu = [
 ];
 
 // Define a root-level base URL
-const baseUrl = '/map/www/';
+const baseUrl = '';
 
 function generateMenu() {
     let currentLocation = window.location.pathname;
