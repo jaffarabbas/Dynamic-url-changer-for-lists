@@ -22,7 +22,7 @@ const menu = [
 ];
 
 // Define a root-level base URL
-const baseUrl = '/Dynamic-url-changer-for-lists/';
+const baseUrl = 'https://jaffarabbas.github.io/Dynamic-url-changer-for-lists/';
 
 function generateMenu() {
     let currentLocation = window.location.pathname;
